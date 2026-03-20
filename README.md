@@ -10,9 +10,9 @@ Bem-vindos ao repositório oficial de materiais do curso de Informática. Aqui v
 | Aula | Conteúdo Técnico | Princípio Bíblico | Material |
 | :--- | :--- | :--- | :--- |
 | **Plano de Aula** | Organização das aulas |  | [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
-| **1** | Anatomia do Computador (Hardware) | O Corpo (1 Coríntios 12) | [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
-| **2** | Design no Paint/Canva | Deus é o primeiro Designer (Gênesis 1)| [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
-| **3** | Introdução à Internet e Pesquisa Bíblica | Guarde o seu coração (Provérbios 4:23)| [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
+| **Aula 1** | Anatomia do Computador (Hardware) | O Corpo (1 Coríntios 12) | [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
+| **Aula 2** | Design no Paint/Canva | Deus é o primeiro Designer (Gênesis 1)| [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
+| **Aula 3** | Introdução à Internet e Pesquisa Bíblica | Guarde o seu coração (Provérbios 4:23)| [Baixar PDF](https://github.com/dayanagimenesrj/IPPM/blob/main/Aulas/plano-de-aula.pdf) |
 ---
 
 ## 🚀 Como usar este repositório
